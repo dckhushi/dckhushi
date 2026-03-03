@@ -1,7 +1,8 @@
-# Hi, I'm Khushi 👋  
+# Hey There, I'm Khushi 👋  
 Final-year Integrated M.Sc. Data Science Student  
 Machine Learning | Computer Vision | NLP | Reinforcement Learning  
-
+I love transforming complex problems into scalable AI solutions — from real-time computer vision systems to trust-aware multitask NLP models.  
+Focused on building impactful, reliable, and meaningful technology for real-world applications.
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,3 +45,4 @@ Machine Learning | Computer Vision | NLP | Reinforcement Learning
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-412991?style=for-the-badge)
 ![Chrome Extension API](https://img.shields.io/badge/Chrome%20Extension%20API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
