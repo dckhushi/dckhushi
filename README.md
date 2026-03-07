@@ -236,22 +236,18 @@
 
 <div align="center">
 
-## ✦ Connect with Me ✦
-
+✦ Connect with Me ✦
 <a href="mailto:khushi15074@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-khushi15074%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
 </a>
 &nbsp;
-<a href="[https://linkedin.com/in/dc-khushi](https://www.linkedin.com/in/dc-khushi-896b92258/)" target="_blank">
+<a href="https://www.linkedin.com/in/dc-khushi-896b92258/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 </a>
 &nbsp;
 <a href="https://github.com/dckhushi" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-dckhushi-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
-
 <br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaborations+%26+opportunities+%E2%9C%A8" />
-
 </div>
