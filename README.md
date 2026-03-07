@@ -242,7 +242,7 @@
   <img src="https://img.shields.io/badge/Gmail-khushi15074%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/dc-khushi" target="_blank">
+<a href="[https://linkedin.com/in/dc-khushi](https://www.linkedin.com/in/dc-khushi-896b92258/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 </a>
 &nbsp;
