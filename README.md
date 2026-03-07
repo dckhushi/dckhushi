@@ -1,25 +1,16 @@
 <div align="center">
-
-# <img src="https://fonts.gstatic.com/s/i/short-expiry/materialicons/v4/24px.svg" width="0"/>
-
-<!--  STATIC BOLD NAME — always visible, no external image dependency -->
-<h1 style="font-size:96px; font-weight:900; letter-spacing:12px;">
-&nbsp;✦&nbsp; K H U S H I &nbsp;✦&nbsp;
-</h1>
-
+<img src="./khushi_banner.png" alt="KHUSHI" width="480" />
 <!-- ANIMATED ROTATING ROLES — separate from name so name never breaks -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Data+Scientist+%F0%9F%A7%AA;AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;NLP+%26+RL+Researcher+%F0%9F%94%AC;Full+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Passionate+Speaker+%F0%9F%8E%A4;Basketball+Captain+%F0%9F%8F%80;National+Skater+%F0%9F%9B%BC;Tech+Enthusiast+%E2%9A%A1" alt="Roles" />
-
 <br/>
-
 <!-- PROFILE BADGES -->
 <img src="https://komarev.com/ghpvc/?username=dckhushi&label=Profile+Views&color=a855f7&style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/dckhushi?label=Followers&style=for-the-badge&color=a855f7&labelColor=1a1a2e" />
 &nbsp;
 <a href="mailto:khushi15074@gmail.com"><img src="https://img.shields.io/badge/Email-khushi15074%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-
 </div>
+
 
 ---
 
