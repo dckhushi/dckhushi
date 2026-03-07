@@ -1,9 +1,13 @@
 <div align="center">
 
-<!-- 3D BOLD NAME BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=90&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=160&lines=KHUSHI" alt="KHUSHI" />
+# <img src="https://fonts.gstatic.com/s/i/short-expiry/materialicons/v4/24px.svg" width="0"/>
 
-<!-- ANIMATED ROTATING ROLES -->
+<!--  STATIC BOLD NAME — always visible, no external image dependency -->
+<h1 style="font-size:96px; font-weight:900; letter-spacing:12px;">
+&nbsp;✦&nbsp; K H U S H I &nbsp;✦&nbsp;
+</h1>
+
+<!-- ANIMATED ROTATING ROLES — separate from name so name never breaks -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Data+Scientist+%F0%9F%A7%AA;AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;NLP+%26+RL+Researcher+%F0%9F%94%AC;Full+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Passionate+Speaker+%F0%9F%8E%A4;Basketball+Captain+%F0%9F%8F%80;National+Skater+%F0%9F%9B%BC;Tech+Enthusiast+%E2%9A%A1" alt="Roles" />
 
 <br/>
@@ -22,10 +26,6 @@
 <div align="center">
 
 ## ✦ About Me ✦
-
-</div>
-
-<div align="center">
 
 🎓 **Integrated M.Sc. Data Science** @ Amrita Vishwa Vidyapeetham *(CGPA: 7.92 / 10)*  
 🔬 **Research Intern** @ NIT Tiruchirappalli — Real-time Computer Vision Systems  
@@ -187,7 +187,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎙️ Mockview AI <em>(Ongoing)</em></h3>
-      <p align="center">AI-driven mock interview system — parses resumes & JDs, conducts voice interviews, generates feedback.</p>
+      <p align="center">AI mock interview system — parses resumes & JDs, conducts voice interviews, generates performance feedback.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/NLP-009688?style=flat-square"/>
@@ -201,26 +201,6 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/VLM-8A2BE2?style=flat-square"/>
         <img src="https://img.shields.io/badge/Transformers-FFD43B?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍽️ Agentic Smart Meal Planner <em>(Ongoing)</em></h3>
-      <p align="center">Intelligent agent personalizing meal plans by reasoning over preferences, ingredients & work schedules.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 Online Meeting Suite | Hackathon</h3>
-      <p align="center">Chrome extension + web app for meeting productivity — automated notes, summaries & smart tools.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -281,6 +261,6 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%A4%9D;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaborations+%26+opportunities+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaborations+%26+opportunities+%E2%9C%A8" />
 
 </div>
