@@ -1,172 +1,286 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=500&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+There%2C+I'm+Khushi+%F0%9F%91%8B;Data+Scientist+%7C+AI+%7C+ML+Engineer;Computer+Vision+%7C+NLP+%7C+RL;Turning+Data+into+Real-World+Impact+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dckhushi&label=Profile%20Views&color=a855f7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/dckhushi?label=Followers&style=flat&color=a855f7" />
-</p>
+<!-- 3D BOLD NAME BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=90&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=160&lines=KHUSHI" alt="KHUSHI" />
+
+<!-- ANIMATED ROTATING ROLES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Data+Scientist+%F0%9F%A7%AA;AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;NLP+%26+RL+Researcher+%F0%9F%94%AC;Full+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Passionate+Speaker+%F0%9F%8E%A4;Basketball+Captain+%F0%9F%8F%80;National+Skater+%F0%9F%9B%BC;Tech+Enthusiast+%E2%9A%A1" alt="Roles" />
+
+<br/>
+
+<!-- PROFILE BADGES -->
+<img src="https://komarev.com/ghpvc/?username=dckhushi&label=Profile+Views&color=a855f7&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/dckhushi?label=Followers&style=for-the-badge&color=a855f7&labelColor=1a1a2e" />
+&nbsp;
+<a href="mailto:khushi15074@gmail.com"><img src="https://img.shields.io/badge/Email-khushi15074%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+
+</div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-🎓 **Final-year Integrated M.Sc. Data Science** @ Amrita Vishwa Vidyapeetham, Coimbatore *(CGPA: 7.92/10)*  
-🔬 **Summer Research Intern** @ NIT Tiruchirappalli — YOLOv8 Computer Vision systems  
-🤖 Passionate about **Machine Learning · Computer Vision · NLP · Reinforcement Learning**  
-🏀 Basketball Team Captain | 🛼 National Skater (2016) | 🎤 Youth Speaker @ IBTC  
-📍 Based in Tamil Nadu, India  
-📬 Reach me at **khushi15074@gmail.com**
+## ✦ About Me ✦
+
+</div>
+
+<div align="center">
+
+🎓 **Integrated M.Sc. Data Science** @ Amrita Vishwa Vidyapeetham *(CGPA: 7.92 / 10)*  
+🔬 **Research Intern** @ NIT Tiruchirappalli — Real-time Computer Vision Systems  
+🚀 Building **end-to-end AI solutions** from CV pipelines to trust-aware NLP models  
+🏀 **Basketball Captain** · 🛼 **National Skater** · 🎤 **Youth Speaker @ IBTC**  
+📍 Tamil Nadu, India
+
+</div>
 
 ---
 
-## 🚀 Tech Stack & Tools
+<div align="center">
 
-### 💻 Programming
+## ✦ Tech Stack & Tools ✦
+
+### ⚙️ Programming Languages
+
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### 🤖 AI / ML Frameworks
+---
+
+### 🤖 AI / ML / Deep Learning
+
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
 [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
 [![Sklearn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
 
+![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD43B?style=for-the-badge&logoColor=black)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-00C853?style=for-the-badge)
+![XAI · LIME](https://img.shields.io/badge/XAI%20·%20LIME-7C3AED?style=for-the-badge)
+![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-412991?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF4081?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-0097A7?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-FF6F00?style=for-the-badge)
+
+---
+
+### 📦 Frameworks & Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3C78A0?style=for-the-badge)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+
+---
+
 ### 🌐 Web Technologies
+
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
+
+---
 
 ### 🗄️ Databases
+
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
 
-### ☁️ Tools & Platforms
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+---
+
+### 🛠️ Tools & Platforms
+
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/dckhushi)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
 
-### 🏷️ Specialized Skills
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
-![XAI LIME](https://img.shields.io/badge/XAI%20(LIME)-4CAF50?style=for-the-badge)
-![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-412991?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension%20API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+</div>
 
 ---
 
-## 💼 Experience
+<div align="center">
 
-### 🔬 Summer Research Intern — NIT Tiruchirappalli *(May 2025 – Aug 2025)*
+## ✦ Experience ✦
+
+</div>
+
+### 🔬 Summer Research Intern — NIT Tiruchirappalli &nbsp;`May 2025 – Aug 2025`
+
 > **Project: Intelligent Pothole & Waterlogging Detection System**
-- Developed a **YOLOv8-based** computer vision system achieving real-time detection accuracy above baseline models
-- Deployed and tested on real-world road imagery datasets
-- **Tech:** YOLOv8 · Python · OpenCV · Edge Detection · Deep Learning
+
+- Built a **YOLOv8-based** real-time computer vision system outperforming baseline detection models
+- Deployed and validated across real-world road imagery datasets
+- **Stack:** `YOLOv8` `Python` `OpenCV` `Edge Detection` `Deep Learning`
 
 ---
 
-## 🧩 Featured Projects
+<div align="center">
 
-<table>
+## ✦ Projects ✦
+
+</div>
+
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3>🚁 Decision-Making Drone Simulator</h3>
-      <p>Autonomous drone navigation using <strong>Deep Reinforcement Learning</strong> for intelligent decision-making in simulated environments.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI%20Gym-412991?style=flat"/></p>
+    <td width="50%" valign="top">
+      <h3 align="center">🚁 RL Drone Simulator</h3>
+      <p align="center">Autonomous drone navigation using <strong>Deep Reinforcement Learning</strong> for intelligent decision-making in simulation.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI%20Gym-412991?style=flat-square"/>
+      </p>
     </td>
-    <td width="50%">
-      <h3>🗺️ Crowdsourced Civic Issue Reporting | SIH 2025</h3>
-      <p>AI-driven platform with image/text reporting, auto geotagging, intelligent department routing, and real-time admin dashboard.</p>
-      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></p>
+    <td width="50%" valign="top">
+      <h3 align="center">🗺️ Civic Issue Reporting | SIH 2025</h3>
+      <p align="center">AI civic platform with auto-geotagging, image/text reporting, smart department routing & real-time dashboard.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🧠 Trust-Aware Multitask NLP System</h3>
-      <p>Explainable multitask NLP model for emotion, hate speech & violence detection with <strong>LIME-based</strong> word-level explanations.</p>
-      <p><img src="https://img.shields.io/badge/Transformers-FFD43B?style=flat&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/XAI%20LIME-4CAF50?style=flat"/></p>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Trust-Aware Multitask NLP</h3>
+      <p align="center">Explainable multitask model for emotion, hate speech & violence detection with <strong>LIME</strong> word-level explanations.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🤗%20Transformers-FFD43B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XAI-4CAF50?style=flat-square"/>
+      </p>
     </td>
-    <td width="50%">
-      <h3>⚙️ Agentic AIOps Predictive Maintenance</h3>
-      <p>Predictive maintenance forecasting machine failure, detecting data drift, with autonomous explainable decisions dashboard.</p>
-      <p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-FFD43B?style=flat&logo=huggingface&logoColor=black"/></p>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ AIOps Predictive Maintenance</h3>
+      <p align="center">Predicts machine failure, detects data drift & delivers autonomous explainable decisions via interactive dashboard.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Transformers-FFD43B?style=flat-square"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🎙️ Mockview AI <em>(Ongoing)</em></h3>
-      <p>AI system that analyzes resumes & JDs to conduct voice-based mock interviews and generate automated performance feedback.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-009688?style=flat"/> <img src="https://img.shields.io/badge/Transformers-FFD43B?style=flat&logo=huggingface&logoColor=black"/></p>
+    <td width="50%" valign="top">
+      <h3 align="center">🎙️ Mockview AI <em>(Ongoing)</em></h3>
+      <p align="center">AI-driven mock interview system — parses resumes & JDs, conducts voice interviews, generates feedback.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-009688?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat-square"/>
+      </p>
     </td>
-    <td width="50%">
-      <h3>🌐 Continual Multimodal Retrieval <em>(Research)</em></h3>
-      <p>VLM-based system for cross-domain multimodal retrieval with lexical simplification and improved adaptability over time.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/VLM-8A2BE2?style=flat"/> <img src="https://img.shields.io/badge/Transformers-FFD43B?style=flat&logo=huggingface&logoColor=black"/></p>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Multimodal Retrieval VLM <em>(Research)</em></h3>
+      <p align="center">VLM-based cross-domain retrieval with lexical simplification for improved adaptability over time.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VLM-8A2BE2?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Transformers-FFD43B?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🍽️ Agentic Smart Meal Planner <em>(Ongoing)</em></h3>
+      <p align="center">Intelligent agent personalizing meal plans by reasoning over preferences, ingredients & work schedules.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Online Meeting Suite | Hackathon</h3>
+      <p align="center">Chrome extension + web app for meeting productivity — automated notes, summaries & smart tools.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dckhushi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dckhushi&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## ✦ GitHub Stats ✦
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dckhushi&theme=tokyo-night" width="96%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=dckhushi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dckhushi&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6e96&currStreakLabel=a855f7" width="48%" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dckhushi&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=ffffff" width="40%" />
 
-## 🏆 Achievements & Honors
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dckhushi&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&hide_border=true" width="96%" />
 
-🏀 **Basketball Team Captain** — 5 Gold Medals (2022–2024) & South Zone Championship (Nov 2024)  
-🛼 **National Skater** (2016)  
-🎖️ **NCC Cadet** — Republic Day Parade 2018–19  
-🥉 **3rd Place** — Lady Anusuiya Singhania All India TurnCoat Hindi Debate (2021–22)  
-🏅 **Chairperson's Award for Best Outgoing Student** — LKSEC (Batch 2021–22)  
-🎤 **Youth Speaker & Governing Council Member** — International Board of Trainers & Coaches (IBTC)  
-🏟️ **Central Sports Coordinator** — Amrita Vishwa Vidyapeetham (2025–26)
+</div>
 
 ---
 
-## 📜 Certifications
+<div align="center">
 
-- 🐍 **NPTEL** — Python for Data Science (2024)
-- 🗄️ **Great Learning Academy** — SQL for Data Science
+## ✦ Achievements & Honors ✦
+
+| 🏅 Achievement | 📋 Details |
+|---|---|
+| 🏀 Basketball Captain | 5 Gold Medals (2022–24) · South Zone Championship Nov 2024 |
+| 🛼 National Skater | National-level recognition (2016) |
+| 🎖️ NCC Cadet | Republic Day Parade 2018–19 |
+| 🥉 Hindi Debate | 3rd — Lady Anusuiya Singhania All India TurnCoat Hindi Debate (2021–22) |
+| 🏅 Best Outgoing Student | Chairperson's Award — LKSEC Batch 2021–22 |
+| 🎤 Youth Speaker | Governing Council Member — IBTC |
+| 🏟️ Sports Coordinator | Central Sports Coordinator — Amrita Vishwa Vidyapeetham (2025–26) |
+| 🐍 NPTEL Certified | Python for Data Science (2024) |
+| 🗄️ SQL Certified | Great Learning Academy — SQL for Data Science |
+
+</div>
 
 ---
 
-## 🤝 Connect with Me
+<div align="center">
 
-<p align="left">
-  <a href="mailto:khushi15074@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  &nbsp;
-  <a href="www.linkedin.com/in/dc-khushi-896b92258" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  &nbsp;
-  <a href="https://github.com/dckhushi" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+## ✦ Connect with Me ✦
 
----
+<a href="mailto:khushi15074@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-khushi15074%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+&nbsp;
+<a href="www.linkedin.com/in/dc-khushi-896b92258" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+&nbsp;
+<a href="https://github.com/dckhushi" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-dckhushi-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%A4%9D;Let's+build+something+amazing+together!+%F0%9F%9A%80" />
-</p>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%A4%9D;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaborations+%26+opportunities+%E2%9C%A8" />
+
+</div>
